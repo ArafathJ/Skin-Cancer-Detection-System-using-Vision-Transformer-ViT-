@@ -117,7 +117,7 @@ Confidence score (probability): 0.9453
 
 ## Want To Test
 
-[[Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArafathJ/Skin-Cancer-Detector/blob/main/skin_cancer_detector.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArafathJ/Skin-Cancer-Detector/blob/main/skin_cancer_detector.ipynb)
 
 
 ## 💡Author
