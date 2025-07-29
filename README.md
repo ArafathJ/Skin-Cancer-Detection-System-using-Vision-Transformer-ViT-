@@ -5,6 +5,9 @@ This project is an AI-powered Skin Cancer Detector built with Hugging Face Trans
 The model classifies dermatoscopic skin images into 7 skin disease categories, assisting in early detection and diagnosis.
 The entire project was developed and trained in Google Colab, ensuring easy replication without local GPU requirements.
 
+## ▶️ Want To Test
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArafathJ/Skin-Cancer-Detector/blob/main/skin_cancer_detector.ipynb)
 
 
 ## 🚀 Features
@@ -114,11 +117,6 @@ Confidence score (probability): 0.9453
 
  - Dataset: [HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
  - Model: [Hugging Face Vision Transformer](https://huggingface.co/google/vit-base-patch16-224-in21k)
-
-## ▶️ Want To Test
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArafathJ/Skin-Cancer-Detector/blob/main/skin_cancer_detector.ipynb)
-
 
 ## 💡Author
 
