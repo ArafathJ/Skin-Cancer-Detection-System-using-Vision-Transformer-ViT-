@@ -7,7 +7,7 @@ The entire project was developed and trained in Google Colab, ensuring easy repl
 
 ## ▶️ Want To Test
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArafathJ/skincancervit/blob/main/Skin_cancer_detector_syste.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArafathJ/Skin-Cancer-Detector/skincancervit/blob/main/skin_cancer_detector.ipynb)
 
 
 ## 🚀 Features
