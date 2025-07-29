@@ -115,7 +115,7 @@ Confidence score (probability): 0.9453
  - Dataset: [HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
  - Model: [Hugging Face Vision Transformer](https://huggingface.co/google/vit-base-patch16-224-in21k)
 
-## Want To Test
+## ▶️ Want To Test
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArafathJ/Skin-Cancer-Detector/blob/main/skin_cancer_detector.ipynb)
 
